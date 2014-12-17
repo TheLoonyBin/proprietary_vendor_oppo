@@ -25,7 +25,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     libHevcSwDecoder \
     libmm-abl \
-    libqct_resampler \
     libtime_genoff \
     libTimeService \
     TimeService
