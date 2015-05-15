@@ -19,7 +19,7 @@ PRODUCT_COPY_FILES += \
     vendor/oppo/msm8974-common/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/oppo/msm8974-common/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/oppo/msm8974-common/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
-    vendor/oppo/msm8974-common/proprietary/bin/mpdecision:system/bin/mpdecision_disabled \
+    vendor/oppo/msm8974-common/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/oppo/msm8974-common/proprietary/vendor/lib/libqti-perfd-client.so:system/vendor/lib/libqti-perfd-client.so \
     vendor/oppo/msm8974-common/proprietary/bin/adsprpcd:system/bin/adsprpcd \
     vendor/oppo/msm8974-common/proprietary/vendor/lib/libadsprpc.so:system/vendor/lib/libadsprpc.so \
@@ -97,6 +97,7 @@ PRODUCT_COPY_FILES += \
     vendor/oppo/msm8974-common/proprietary/vendor/lib/egl/libGLESv2_adreno.so:system/vendor/lib/egl/libGLESv2_adreno.so \
     vendor/oppo/msm8974-common/proprietary/vendor/lib/egl/libq3dtools_adreno.so:system/vendor/lib/egl/libq3dtools_adreno.so \
     vendor/oppo/msm8974-common/proprietary/vendor/lib/libadreno_utils.so:system/vendor/lib/libadreno_utils.so \
+    vendor/oppo/msm8974-common/proprietary/vendor/lib/libbccQTI.so:system/vendor/lib/libbccQTI.so \
     vendor/oppo/msm8974-common/proprietary/vendor/lib/libC2D2.so:system/vendor/lib/libC2D2.so \
     vendor/oppo/msm8974-common/proprietary/vendor/lib/libCB.so:system/vendor/lib/libCB.so \
     vendor/oppo/msm8974-common/proprietary/vendor/lib/libc2d30-a3xx.so:system/vendor/lib/libc2d30-a3xx.so \
